@@ -29,12 +29,14 @@ Less initial filled squares
 * **5 Mistakes Mode** - 
 Allows user to do up to 5 mistakes per game
 
+### `Space Invaders`
+![](https://github.com/Nurckye/CHIP8-Emulator/blob/master/media/spaceinvaders.png) 
+
+### `Pong`
+![](https://github.com/Nurckye/CHIP8-Emulator/blob/master/media/pong.png) 
 
 
 
-Game Screen           |  Settings Screen
-:-------------------------:|:-------------------------:
-![](https://github.com/Nurckye/le-monde-de-sudoku/blob/master/githubMedia/sudokuMain.png)  |  ![](https://github.com/Nurckye/le-monde-de-sudoku/blob/master/githubMedia/sudokuSettings.png)
 
 
 
