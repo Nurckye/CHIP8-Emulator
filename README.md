@@ -20,15 +20,6 @@ Followed by:
 java -jar target/gs-maven-0.1.0.jar
 ```
 
-### `Game Modes`
-
-* **Normal mode** - 
-Just the usual Sudoku experience 
-* **Hard mode** - 
-Less initial filled squares
-* **5 Mistakes Mode** - 
-Allows user to do up to 5 mistakes per game
-
 ### `Space Invaders`
 ![](https://github.com/Nurckye/CHIP8-Emulator/blob/master/media/spaceinvaders.png) 
 
